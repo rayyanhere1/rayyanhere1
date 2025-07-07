@@ -41,6 +41,11 @@
 
 ---
 
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rayyanhere1&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
 ### 🎯 Quote I Live By
 > _“Build like a developer. Think like a user.”_
 
