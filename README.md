@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rayyan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F73D9F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Developer;Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7D5FFF&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;AI+Developer;Tech+Enthusiast;Open+Source+Contributor;Student+Innovator" alt="Typing SVG" />
 </p>
-
-<h3 align="center">A Passionate Full Stack & AI Developer from Pakistan</h3>
 
 
 ---
